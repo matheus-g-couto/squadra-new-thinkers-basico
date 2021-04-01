@@ -1,4 +1,4 @@
-package pkgnew.thinkers.cozinha;
+package CozinhaJava;
 
 import java.text.SimpleDateFormat;
 import java.text.ParseException;
